@@ -4,8 +4,8 @@
 -- ============================================================
 --     by Thorsten Luedtke, BIPortal GmbH, Hamburg, Germany
 --                  www.bi-portal.com
---          many thanks to Mikkel Bojsen-Møller
--- ================== instructions =======================
+--  many thanks to Mikkel Bojsen-Møller for suggesting a script
+-- ================== instructions ============================
 -- The user ADMINISTRATOR is created and configured on pages 229ff. 
 -- ADMINISTRATOR should be the owner of the POS schema as SYSTEM cannot grant privileges 
 -- to itself und thus might lead to issues later. 
